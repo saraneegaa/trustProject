@@ -1,0 +1,13 @@
+.nav-link:hover{
+    background-color: white !important;
+}
+
+.btn-color:hover{
+    background-color: white !important;
+    color:blue !important;
+}
+
+btn-primary:hover{
+    background-color: white !important;
+}
+
